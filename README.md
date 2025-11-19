@@ -11,6 +11,7 @@
 🧠 Vida & Trabalho
 
 https://www.youtube.com/watch?v=bEh9bC6_Zmg
+https://github.com/lorenzo-leuck/ia-fase-7-gs
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/lorenzo-leuck/">Lorenzo Leuck</a>
